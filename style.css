@@ -1,0 +1,96 @@
+
+body{
+    background-color: black;
+    }
+.heading{
+        font-size: 240%;
+        position: absolute;
+        top:12%;
+        left: 20%;
+        display: inline;
+    }
+    .logo{
+        float:left;
+        width: 10%;
+    }
+   
+.introduce{
+    font-size: 240%;
+    color:white;
+}
+.Skill{
+    background-color: aliceblue;
+   
+    width: 60%;
+    margin: 0 auto;
+    border: 0.4rem solid red;
+    padding: 1%;
+    position: relative;
+    top: -150px;
+    
+}
+
+.background{
+   width: 100%;
+}
+.info{
+    width: 80%;
+    margin: 0 auto;
+
+}
+.ability{
+    position: absolute;
+    top: -10%;
+    left: 12%;
+}
+.xxx{
+    font-size: 120%;
+    position: relative;
+    
+}
+
+ .img_skin{
+     width: 50%;
+     height: auto;
+     float: left;
+    
+ }
+
+ .skin{
+     border: solid 0.4rem yellow;
+     width: 80%;
+     margin: 0 auto;
+ }
+ .List_skin{
+    
+     width: 100%;
+     
+ }
+ .line{
+     font-size: 200%;
+     background-color: white;
+     text-align: center;
+     
+ }
+ 
+  .build{
+    background-color: aliceblue;
+    font-size: 120%;
+    width: 60%;
+    margin: 0 auto;
+    border: 0.4rem solid red;
+    padding: 1%;
+    position: relative;
+
+  }
+  .clear::after,.clear::before{
+      content: "";
+      display: table;
+      clear: both;
+  }
+  .note{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
